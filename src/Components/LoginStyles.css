@@ -132,7 +132,7 @@ button:is(:hover, :focus) {
     grid-template-columns: 1fr;
     gap: 15px;
     padding: 10px 0px;
-    margin-left: 45px;
+    margin-left: 5px;
   }
   .submit-btn {
     font-size: 12px;
